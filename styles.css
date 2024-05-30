@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-container {
+  display: flex;
+  padding-top: 2rem;
+}
+
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+
+#logo {
+  display: flex;
+  margin: 2rem;
+  width: 6rem;
+}
+
+.content-container {
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.image-host {
+  width: 50vw;
+}
+
+h1 {
+  margin-bottom: 1rem;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+input {
+  margin-bottom: 2gitrem;
+  margin-left: 60%;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+}
